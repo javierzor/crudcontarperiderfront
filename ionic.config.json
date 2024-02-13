@@ -1,0 +1,7 @@
+{
+  "name": "crudcontarperiderfront",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
